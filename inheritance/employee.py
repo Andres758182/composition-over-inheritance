@@ -1,5 +1,3 @@
-"""Abstract base class for every employee in the inheritance design."""
-
 from abc import ABC, abstractmethod
 from dataclasses import dataclass
 

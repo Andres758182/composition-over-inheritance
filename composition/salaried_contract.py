@@ -1,5 +1,3 @@
-"""Contract paid with a fixed monthly salary."""
-
 from dataclasses import dataclass
 
 from contract import Contract

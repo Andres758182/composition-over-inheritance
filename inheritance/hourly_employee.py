@@ -1,5 +1,3 @@
-"""Employee paid by the hour."""
-
 from dataclasses import dataclass
 
 from employee import Employee

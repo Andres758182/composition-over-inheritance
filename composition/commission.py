@@ -1,5 +1,3 @@
-"""Abstract commission that an employee may have."""
-
 from abc import ABC, abstractmethod
 
 

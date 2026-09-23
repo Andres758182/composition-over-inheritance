@@ -1,5 +1,3 @@
-"""Contract paid by the hour."""
-
 from dataclasses import dataclass
 
 from contract import Contract

@@ -1,5 +1,3 @@
-"""Abstract payment contract that every employee has."""
-
 from abc import ABC, abstractmethod
 
 

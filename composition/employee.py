@@ -1,5 +1,3 @@
-"""Employee that HAS-A contract and MAY-HAVE-A commission."""
-
 from dataclasses import dataclass
 from typing import Optional
 

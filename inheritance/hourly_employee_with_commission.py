@@ -1,5 +1,3 @@
-"""Hourly employee that also earns a commission."""
-
 from dataclasses import dataclass
 
 from hourly_employee import HourlyEmployee

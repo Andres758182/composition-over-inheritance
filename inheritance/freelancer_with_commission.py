@@ -1,5 +1,3 @@
-"""Freelancer that also earns a commission."""
-
 from dataclasses import dataclass
 
 from freelancer import Freelancer

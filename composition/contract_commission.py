@@ -1,5 +1,3 @@
-"""Commission based on the number of contracts landed."""
-
 from dataclasses import dataclass
 
 from commission import Commission
